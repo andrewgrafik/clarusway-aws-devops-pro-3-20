@@ -40,7 +40,7 @@ print(my_var)
 print(type(my_var))
 
 
-e_mail = 'alfred@clarusway.com'
+e_mail = 'alfred@.com'
 num = '632'
 message = "It's early"
 
@@ -131,12 +131,6 @@ a = 4 ** (2 ** 1.0 / 2)
 a = 4 ** (2 / 2.0)
 a = 4 ** 1.0
 a = 4.0
-
-
----
-print("End","of","class", sep = ' ', end = '-')
-print("next line")
-
 
 
 
